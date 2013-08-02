@@ -1,0 +1,8 @@
+{
+  "name": "jquery-tinysort",
+  "description": "TinySort, a small and simple jQuery plugin",
+  "homepage": "https://github.com/dburles/meteor-jquery-tinysort",
+  "author": "Ron Valstar",
+  "version": "0.5.5",
+  "git": "https://github.com/dburles/meteor-jquery-tinysort.git"
+}
